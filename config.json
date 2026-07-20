@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "flask-web-app",
+      "title": "Building a Simple Web App with Flask",
+      "description": "Create a multi-page web application with routing, templates, and form handling to learn web development fundamentals.",
+      "path": "assignments/flask-web-app",
+      "dueDate": "2026-07-27",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
